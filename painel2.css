@@ -1,0 +1,18 @@
+.a{
+    border: 50px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50px;
+    text-align: center;
+}
+.b{
+    border: 50px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: dimgray ;
+}

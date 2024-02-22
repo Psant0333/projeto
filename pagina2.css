@@ -1,0 +1,43 @@
+.vz{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+   
+    border: none;
+    padding: 15px;
+    color: white;
+    
+    cursor: pointer;
+    border-radius: 10px;
+    }
+.vou{
+
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+   
+    border: none;
+    padding: 15px;
+    color: white;
+    
+    cursor: pointer;
+    border-radius: 10px;
+}
+body{
+    
+    padding: 30px;
+    text-align: center;
+    margin-top: 95px;
+    
+    
+}
+form{
+    background: grey;
+    background-color: grey;
+    border-radius: 50px;
+}
+.p{
+    border: 1px solid black;
+    border-radius: 50px;
+
+    background-color: grey;
+    
+}

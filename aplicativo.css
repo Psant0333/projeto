@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, rgb(156, 156, 156), rgb(255, 255, 255) );
+    background-image: url;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  hr {
+    font-weight: bold;
+    height: 3px;
+    background: black;
+    margin-bottom: 10px;
+  }
+  
+  .game {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .game button {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 50px;
+    background: #f7f7f7;
+  }
+.divisao{
+    position: relative;
+    top: -200px;
+    left: -300px;
+}
+.bt2{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+   
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.bt1{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+    
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.col{
+  position: relative;
+  top: -100px;
+  left: -200px;
+  right: 30px;
+
+}
+.cadastro {
+  display: flex;  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#id{
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+  
+  border: none;
+  padding: 10px;
+  color: white;
+  font-size: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+.cod{
+  text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+    
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}

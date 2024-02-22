@@ -1,0 +1,45 @@
+.texto1{
+    text-align: center;
+    color: aliceblue;
+}
+button{
+    text-align: center;
+}
+#submit{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(96, 96, 96), rgb(0,0,0) );
+    width: 30%;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(156, 156, 156), rgb(255, 255, 255) );
+}
+
+.div1{
+    text-align: center;
+   
+}
+.p1{
+    font-size: 23px;
+    color: aliceblue;
+}
+.p2{
+    font-size: 23px;
+    color: aliceblue;
+}
+.p3{
+    font-size: 23px;
+    color: aliceblue;
+}
+.p4{
+    font-size: 23px;
+    color: aliceblue;
+}
+fieldset{
+    background-color: black;
+}

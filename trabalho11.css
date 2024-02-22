@@ -1,0 +1,29 @@
+h1{
+text-align: center;
+color: aliceblue;
+
+
+
+}
+
+
+body{
+    background: rgb(1, 1, 1);
+}
+
+div{
+text-align: center;
+background: rgb(4, 73, 223);
+border-radius: 50px;
+}
+
+div{
+    text-align: center;
+    background: rgb(4, 73, 223);
+    border-radius: 50px;
+    }
+
+img {
+    border-radius: 100px;
+    text-align: center;
+}
